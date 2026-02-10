@@ -1,0 +1,202 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": ["ニチ", "ジツ"],
+    "kunyomi": ["ひ", "か"],
+    "meaning": "sun, day",
+    "examples": [
+      {"japanese": "日本", "reading": "にほん", "english": "Japan"},
+      {"japanese": "毎日", "reading": "まいにち", "english": "every day"}
+    ]
+  },
+  {
+    "kanji": "月",
+    "onyomi": ["ゲツ", "ガツ"],
+    "kunyomi": ["つき"],
+    "meaning": "moon, month",
+    "examples": [
+      {"japanese": "一月", "reading": "いちがつ", "english": "January"},
+      {"japanese": "月曜日", "reading": "げつようび", "english": "Monday"}
+    ]
+  },
+  {
+    "kanji": "火",
+    "onyomi": ["カ"],
+    "kunyomi": ["ひ"],
+    "meaning": "fire",
+    "examples": [
+      {"japanese": "火曜日", "reading": "かようび", "english": "Tuesday"},
+      {"japanese": "花火", "reading": "はなび", "english": "fireworks"}
+    ]
+  },
+  {
+    "kanji": "水",
+    "onyomi": ["スイ"],
+    "kunyomi": ["みず"],
+    "meaning": "water",
+    "examples": [
+      {"japanese": "水曜日", "reading": "すいようび", "english": "Wednesday"},
+      {"japanese": "水", "reading": "みず", "english": "water"}
+    ]
+  },
+  {
+    "kanji": "木",
+    "onyomi": ["モク", "ボク"],
+    "kunyomi": ["き"],
+    "meaning": "tree, wood",
+    "examples": [
+      {"japanese": "木曜日", "reading": "もくようび", "english": "Thursday"},
+      {"japanese": "木", "reading": "き", "english": "tree"}
+    ]
+  },
+  {
+    "kanji": "金",
+    "onyomi": ["キン", "コン"],
+    "kunyomi": ["かね"],
+    "meaning": "gold, money",
+    "examples": [
+      {"japanese": "金曜日", "reading": "きんようび", "english": "Friday"},
+      {"japanese": "お金", "reading": "おかね", "english": "money"}
+    ]
+  },
+  {
+    "kanji": "土",
+    "onyomi": ["ド", "ト"],
+    "kunyomi": ["つち"],
+    "meaning": "soil, earth",
+    "examples": [
+      {"japanese": "土曜日", "reading": "どようび", "english": "Saturday"},
+      {"japanese": "土", "reading": "つち", "english": "soil"}
+    ]
+  },
+  {
+    "kanji": "人",
+    "onyomi": ["ジン", "ニン"],
+    "kunyomi": ["ひと"],
+    "meaning": "person",
+    "examples": [
+      {"japanese": "日本人", "reading": "にほんじん", "english": "Japanese person"},
+      {"japanese": "人", "reading": "ひと", "english": "person"}
+    ]
+  },
+  {
+    "kanji": "年",
+    "onyomi": ["ネン"],
+    "kunyomi": ["とし"],
+    "meaning": "year",
+    "examples": [
+      {"japanese": "今年", "reading": "ことし", "english": "this year"},
+      {"japanese": "来年", "reading": "らいねん", "english": "next year"}
+    ]
+  },
+  {
+    "kanji": "時",
+    "onyomi": ["ジ"],
+    "kunyomi": ["とき"],
+    "meaning": "time, hour",
+    "examples": [
+      {"japanese": "時間", "reading": "じかん", "english": "time"},
+      {"japanese": "三時", "reading": "さんじ", "english": "3 o'clock"}
+    ]
+  },
+  {
+    "kanji": "分",
+    "onyomi": ["ブン", "フン"],
+    "kunyomi": ["わかる"],
+    "meaning": "minute, understand",
+    "examples": [
+      {"japanese": "十分", "reading": "じゅっぷん", "english": "10 minutes"},
+      {"japanese": "分かる", "reading": "わかる", "english": "to understand"}
+    ]
+  },
+  {
+    "kanji": "生",
+    "onyomi": ["セイ", "ショウ"],
+    "kunyomi": ["いきる", "うまれる"],
+    "meaning": "life, birth",
+    "examples": [
+      {"japanese": "学生", "reading": "がくせい", "english": "student"},
+      {"japanese": "先生", "reading": "せんせい", "english": "teacher"}
+    ]
+  },
+  {
+    "kanji": "大",
+    "onyomi": ["ダイ", "タイ"],
+    "kunyomi": ["おおきい"],
+    "meaning": "big, large",
+    "examples": [
+      {"japanese": "大学", "reading": "だいがく", "english": "university"},
+      {"japanese": "大きい", "reading": "おおきい", "english": "big"}
+    ]
+  },
+  {
+    "kanji": "小",
+    "onyomi": ["ショウ"],
+    "kunyomi": ["ちいさい"],
+    "meaning": "small, little",
+    "examples": [
+      {"japanese": "小学校", "reading": "しょうがっこう", "english": "elementary school"},
+      {"japanese": "小さい", "reading": "ちいさい", "english": "small"}
+    ]
+  },
+  {
+    "kanji": "中",
+    "onyomi": ["チュウ"],
+    "kunyomi": ["なか"],
+    "meaning": "middle, inside",
+    "examples": [
+      {"japanese": "中学校", "reading": "ちゅうがっこう", "english": "middle school"},
+      {"japanese": "中", "reading": "なか", "english": "inside"}
+    ]
+  },
+  {
+    "kanji": "外",
+    "onyomi": ["ガイ", "ゲ"],
+    "kunyomi": ["そと"],
+    "meaning": "outside",
+    "examples": [
+      {"japanese": "外国", "reading": "がいこく", "english": "foreign country"},
+      {"japanese": "外", "reading": "そと", "english": "outside"}
+    ]
+  },
+  {
+    "kanji": "上",
+    "onyomi": ["ジョウ"],
+    "kunyomi": ["うえ", "あがる"],
+    "meaning": "up, above",
+    "examples": [
+      {"japanese": "上手", "reading": "じょうず", "english": "skillful"},
+      {"japanese": "上", "reading": "うえ", "english": "above"}
+    ]
+  },
+  {
+    "kanji": "下",
+    "onyomi": ["カ", "ゲ"],
+    "kunyomi": ["した", "さがる"],
+    "meaning": "down, below",
+    "examples": [
+      {"japanese": "下手", "reading": "へた", "english": "unskillful"},
+      {"japanese": "下", "reading": "した", "english": "below"}
+    ]
+  },
+  {
+    "kanji": "前",
+    "onyomi": ["ゼン"],
+    "kunyomi": ["まえ"],
+    "meaning": "front, before",
+    "examples": [
+      {"japanese": "午前", "reading": "ごぜん", "english": "morning"},
+      {"japanese": "前", "reading": "まえ", "english": "front"}
+    ]
+  },
+  {
+    "kanji": "後",
+    "onyomi": ["ゴ", "コウ"],
+    "kunyomi": ["あと", "うしろ"],
+    "meaning": "after, behind",
+    "examples": [
+      {"japanese": "午後", "reading": "ごご", "english": "afternoon"},
+      {"japanese": "後ろ", "reading": "うしろ", "english": "behind"}
+    ]
+  }
+]

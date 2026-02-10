@@ -4,6 +4,7 @@ import { UserCircleIcon, ArrowRightOnRectangleIcon } from '@heroicons/react/24/o
 import { useAppStore } from './store/useAppStore';
 import { ToastContainer } from './components/Toast';
 import { ProtectedRoute } from './components/ProtectedRoute';
+import InstallButton from './components/InstallButton';
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Practice from './pages/Practice';
@@ -131,6 +132,7 @@ function App() {
             } />
           </Routes>
         </main>
+        <InstallButton />
         <ToastContainer toasts={toasts} removeToast={removeToast} />
       </div>
     </BrowserRouter>
